@@ -1,0 +1,20 @@
+{
+  "name": "linsimontao-react-css-spinner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linsimontao/linsimontao-react-css-spinner.git"
+  },
+  "keywords": ["react", "css", "spinner"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linsimontao/linsimontao-react-css-spinner/issues"
+  },
+  "homepage": "https://github.com/linsimontao/linsimontao-react-css-spinner#readme"
+}
